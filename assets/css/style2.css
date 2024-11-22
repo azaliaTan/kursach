@@ -1,0 +1,2955 @@
+
+
+@media (max-width: 1500px) {
+    .container{
+        max-width: 1300px;
+    }
+
+    .sec_1,.sec_3{
+        gap: 200px;
+    }
+  
+  .one_sob,.one_sob_l{
+    flex: 1 1 calc(33.33% - 100px); 
+    box-sizing: border-box;
+    max-width: calc(33.33% - 100px);
+  }
+
+  .otzyv{
+    padding: 20px 70px;
+  }
+  .text_otz{
+    max-width: 850px;
+  }
+  .container_profil{
+    max-width: 1400px;
+  }
+  .l_block{
+padding: 50px 40px;
+  }
+  .mmck{
+    font-size: 20px;
+  }
+
+ .mob{
+    gap: 90px;
+ }
+.text_sec_p{
+max-width: 1300px;
+padding: 100px 90px;
+}
+.my_prof{
+    gap: 100px;
+}
+
+.c_post_list, .c_news_list{
+    padding: 0;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+}
+
+
+@media (max-width: 1400px) {
+    .container_profil{
+        max-width: 1280px;
+        margin: 0 auto;
+      }
+      .r_one{
+        width: 700px;
+    }
+    .l_block{
+        justify-content: space-between;
+    }
+    .mob img{
+        width: 34%;
+    }
+    .prof{
+        padding:  0 24px;
+    }
+    .conta{
+        padding: 0  30px;
+    }
+    .prof_name{
+        font-size: 26px;
+        flex-wrap: wrap;
+    }
+    .avpr{
+        width: 300px;
+    }
+    
+    .list, .list_2{
+        grid-template-columns: repeat(auto-fill, minmax(285px, 1fr));
+    }
+}
+
+@media (max-width: 1300px) {
+    .container{
+        max-width: 1100px;
+    }
+
+    .sec_1,.sec_3{
+        gap: 120px;
+    }
+    
+    .text_help{
+        font-size: 20px;
+    }
+    .sec_kart{
+        padding: 30px 50px;
+        gap: 50px;
+    }
+
+    #zagolovok{
+        font-size: 20px;
+        max-width: 300px;
+        margin-bottom: 15px;
+    
+    }
+    #opis{
+        font-size: 12px;
+        max-width: 300px;
+        margin-bottom: 10px;
+    }
+    
+    #more{
+        font-size: 10px;
+        margin-bottom: 25px;
+    }
+    
+    #otkl{
+        font-size: 15px;
+        padding: 15px 55px;
+        text-align: center;
+        background-color:rgba(255, 86, 13, 0.875);
+        color: white;
+        border-radius: 55px;
+        display: inline-block;
+        margin: 0 auto; 
+    }
+   
+    .one_sob,.one_sob_l{
+        flex: 1 1 calc(33.33% - 60px); 
+        box-sizing: border-box;
+        max-width: calc(33.33% - 60px);
+      }
+
+      h5{
+        font-size: 29px;
+      }
+      .one_sob p{
+        font-size: 22px;
+      }
+      .footer_mck{
+        font-size: 13px;
+        color: rgba(0, 0, 0, 0.49);
+        max-width: 500px;
+    }
+
+    .new{
+        flex: 1 1 calc(33.33% - 30px); 
+    box-sizing: border-box;
+    max-width: calc(33.33% - 30px);
+    padding: 35px;
+    }
+    .new p{
+font-size: 18px;
+    }
+    .new img{
+        width:220px;
+        height: 230px;
+    }
+    .otzyv{
+        padding: 35px 70px;
+    }
+
+    .text_otz{
+        max-width: 650px;
+    }
+.short-text{
+    font-size: 11px;
+}
+    .container_profil{
+        max-width: 1100px;
+        margin: 0 auto;
+      }
+
+
+      .prof_name{
+        max-width: 450px;
+      }
+      .mob{
+        gap: 50px;
+      }
+      .rol{
+        font-size: 16px
+      }
+      .prof_cont{
+        font-size: 16px;
+        gap: 20px;
+      }
+
+      .contact{
+        margin: 80px 0 100px 0;
+      }
+    .r_one{
+        padding: 30px 30px;
+        width: 600px;
+    }
+    .r_one_name{
+        font-size: 21px;
+        gap: 10px;
+    }
+    .rol_r{
+        font-size: 16px;
+    }
+    .r_one_text{
+        font-size: 14px;
+        gap: 13px;
+    }
+    .text_r{
+        font-size: 13px;
+    }
+    .l_block{
+        padding: 40px 20px;
+    }
+    .mmck{
+        font-size: 17px;
+    }
+      
+  .l_block_con{
+    margin-top: 25px;
+    font-size: 16px;
+    gap: 8px;
+  }
+  .one_sob_l p{
+    font-size: 20px;
+  }
+  .text_sec_p{
+    max-width: 1100px;
+    padding: 90px 70px;
+    }
+  
+    .my_prof{
+        gap: 70px;
+    }
+    .r, .r_d{
+        font-size: 18px;
+       
+    }
+
+    .one_post_inner, .one_news_inner{
+        gap: 160px;
+    }
+    .opis_name{
+        font-size: 32px;
+    }
+    .opis_ine{
+        font-size: 18px;
+    }
+
+    .item_img img,.item_img_new img{
+        width: 230px;
+    }
+    .item_text_one,.item_text_news{
+        max-width: 450px;
+    }
+    .sob_list{
+        margin: 40px 0;
+    }
+    
+}
+
+
+
+@media (max-width: 1100px) {
+    .container{
+        max-width: 900px;
+    }
+    .text_logo{
+        font-size: 14px;
+    }
+     
+   nav{
+    font-size: 13px;
+    gap: 18px;
+   }
+
+   .banner{
+    gap: 10px;
+    padding: 80px 0;
+   }
+    
+   .text_banner{
+    font-size: 75px;
+   }
+   .text{
+    gap: 25px;
+    margin-bottom: 30px;
+    font-size: 45px;
+   }
+   #text2{
+    font-size: 45px;
+    padding: 15px 20px;
+   }
+   .banner img{
+    width: 50%;
+   }
+
+   .banner_2{
+    margin-top: 70px;
+   }
+
+
+   .banner_inner{
+    font-size: 25px;
+   }
+
+   #tee{
+    margin-bottom: 20px;
+   }
+
+   .banner_inner_two{
+    gap: 25px;
+   }
+   .text_inner_two{
+    font-size: 15px;
+    max-width: 420px;
+   }
+   #tex{
+    font-size: 22px;
+    width: 420px;
+    padding: 15px 0 15px 0;
+   }
+   #how{
+    font-size: 35px;
+    width: 500px;
+    
+   }
+
+   .text_help{
+    gap: 10px;
+    font-size: 19px;
+   }
+
+   .sec_1{
+    gap: 45px;
+    margin: 70px 0 0 0;
+    flex-direction: column;
+
+   }
+     
+   .sec_2{
+    align-items: center;
+    text-align: justify;
+    max-width: 100%
+   }
+
+   .sec_3{
+    gap: 45px;
+    margin: 70px 0 0 0;
+    flex-direction: column;
+   }
+
+   #s{
+    font-size: 35px;
+    margin: 70px 0 30px 0;
+   }
+   .sob_list{
+    margin-top: 20px;
+   }
+   .sob{
+    margin-top: 80px;
+   }
+ 
+   .one_sob,.one_sob_l{
+    margin-bottom: 25px;
+    padding: 60px 25px;
+    flex: 1 1 calc(33.33% - 40px); 
+    box-sizing: border-box;
+    max-width: calc(33.33% - 40px);
+    gap: 20px;
+  }
+  .one_sob_l p{
+    font-size: 18px;
+  }
+
+  h5{
+    font-size: 26px;
+  }
+  .one_sob p{
+    font-size: 20px;
+  }
+
+  .pagi{
+    margin: 60px 0 60px 0;
+  }
+
+
+  .text_logo_f{
+     font-size: 27px;
+  }
+
+  .logo_f img{
+    width: 90px;
+}
+.footer_nav{
+    gap: 25px;
+    font-size: 14px;
+}
+.footer_con{
+    font-size: 14px;
+}
+
+.new p{
+    font-size: 17px;
+}
+.new{
+    padding: 25px;
+}
+.new button{
+    width:  180px;
+    font-size: 15px;
+}
+footer{
+    margin: 80px 0 20px 0;
+}
+.kategory{
+    font-size: 17px;
+    margin-left: 10px;
+}
+
+.otz_block{
+    margin-top: 50px;
+}
+.otzyv{
+    padding: 25px 50px;
+   
+}
+.otz_kart{
+    gap: 15px;
+}
+.otz_kart p{
+    font-size: 13px;
+}
+.otz_kart img{
+    width: 70px;
+}
+.text_otz{
+    max-width: 560px;
+    margin-left: 20px;
+}
+.op{
+    font-size: 17px;
+}
+.name_otz{
+    margin: 15px 0 20px 0;
+}
+.name_otz p{
+    font-size: 16px;
+}
+.short_text,.full_text{
+    font-size: 13px;
+
+}
+.read{
+    margin-top: 20px;
+
+}
+
+.add_block{
+    padding: 0 40px;
+    margin: 60px 0 100px 0;
+}
+.add_one{
+    font-size: 28px;
+    gap: 3px;
+
+}
+
+.obr_one{
+    font-size: 25px;
+    gap: 8px;
+}
+.stick img{
+    width: 120px;
+}
+.conta{
+    padding: 0 10px;
+    margin: 30px 0;
+}
+.but_obr button{
+    font-size: 20px;
+    padding: 20px 0;
+    width: 300px;
+}
+.Name_two{
+    font-size: 28px;
+    margin: 70px 0 40px 0;
+}
+.container_profil{
+    max-width: 1000px;
+}
+.mob{
+    gap: 70px;
+}
+.r_one{
+    width: 520px;
+}
+
+.text_sec_p{
+    max-width: 1000px;
+    padding: 90px 70px;
+    }
+    .my_prof{
+        gap: 50px;
+    }
+    .r, .r_d{
+        font-size: 15px;
+       
+    }
+    .forma{
+        margin: 50px 0;
+    }
+
+    .red_h{
+  font-size: 27px;
+    }
+.href_a{
+   font-size: 16px;
+}
+.panel{
+    font-size: 23px;
+}
+.admin_vkladki button{
+    
+    font-size: 19px;
+    padding: 20px 27px ;
+    text-align: center;
+    border-radius: 0px;
+ }
+ .z_post{
+width: 900px;
+ }
+ .z_post_text{
+    width: 500px;
+ }
+ .kat_list_item{
+    padding: 15px ;
+    width: 230px;
+ }
+ .kat_list_item_text{
+font-size: 15px
+ };
+
+}
+
+@media (max-width: 1000px){
+
+    .container{
+        max-width: 950px;
+    }
+    .container_profil{
+        max-width: 950px;
+        
+    }
+    .obr_one{
+        font-size: 20px;
+    }
+    .r_one{
+        width: 450px;
+    }
+   .contact{
+    gap: 15px;
+    padding: 10px;
+   }
+   .r_one_name{
+    font-size: 17px;
+   }
+   .rol_r{
+    font-size: 15px;
+   }
+   .r_one_text{
+    font-size: 15px;
+   }
+   .text_r{
+    font-size: 14px;
+   }
+   .r_one_name{
+    font-size: 15px;
+   }
+   .mmck{
+    font-size: 16px;
+   }
+   .l_block_con{
+    font-size: 16px;
+    gap: 7px;
+    margin-top: 20px;
+   }
+   .l_block img{
+    width: 300px;
+   }
+
+
+   .profile{
+    margin: 45px 0 30px 0;
+   }
+   .prof_sec{
+    gap: 45px;
+   }
+   .avpr{
+    width: 250px;
+   }
+   
+   .text_sec_p{
+    margin-top: 50px;
+    max-width: 900px;
+    padding: 70px 50px;
+    }
+    .DO{
+        font-size: 29px;
+    }
+    .text_DOP{
+        font-size: 17px;
+    }
+    .cont_DOP{
+        font-size: 20px;
+        column-gap: 20px;
+    }
+
+    .one_news_inner{
+       
+        gap: 60px;
+        margin-top: 20px;
+    }
+     .op{
+        margin-bottom: 8px;
+        
+     }
+     .full-text{
+        width: 520px;
+        text-align: justify;
+     }
+}
+
+
+@media (max-width: 950px){
+
+.banner_inner{
+    font-size: 20px;
+   }
+
+   .banner_inner img{
+    width: 40%;
+   }
+
+   #slider_h{
+    padding: 50px 0 35px 0;
+    font-size: 30px;
+   }
+   #slider_hh{
+    font-size: 20px;
+   }
+   .text_sl h4{
+    font-size: 33px;
+ 
+    margin-bottom: 20px;
+}
+.text_sl p{
+    font-size: 20px;
+    
+}
+
+.new {
+    flex: 1 1 calc(50% - 30px); 
+    max-width: calc(50% - 30px); 
+    margin-bottom: 45px; }
+
+    .add_block{
+        padding: 0 50px;
+        margin: 60px 0 90px 0;
+    }
+    .add_one{
+        font-size: 25px;
+        gap: 3px;
+    
+    }
+    .but_add button{
+     font-size: 22px;
+    }
+    .Name_three{
+        font-size: 29px;
+        margin-top: 60px;
+
+    }
+    .prof_vkl{
+        font-size: 24px;
+        gap: 100px;
+
+    }
+    .one_post{
+        margin: 45px 0;
+       }
+    .z_post_text{
+        max-width: 400px;
+    }
+    .z_post{
+        width: 800px;
+    }
+    .href_a{
+        gap: 40px;
+    }
+    .p-class{
+        padding: 0 15px;
+    }
+    .nazad_news{
+        margin-top: 20px;
+    }
+}
+
+
+
+
+
+
+@media (max-width: 900px) {
+    .container{
+        max-width: 750px;
+    }
+     
+    .header{
+        gap: 25px;
+    }
+    nav{
+    font-size: 13px;
+    gap: 15px;
+    }
+     .head_logo{
+        gap: 5px;
+        justify-content: center;
+     }
+    .logo img{
+        width: 80%;
+    }
+    .text_logo{
+        font-size: 16px;
+    }
+   
+    .text_banner{
+        font-size: 55px;
+       }
+       .text{
+        gap: 25px;
+        margin-bottom: 20px;
+        font-size: 30px;
+       }
+       #text2{
+        font-size: 30px;
+        padding: 10px 15px;
+       }
+      
+      .banner_2{
+        margin-top: 50px;
+      }
+   
+      #how{
+        font-size: 30px ;
+      }
+
+      .one_sob_l p{
+        font-size: 16px;
+      }
+      
+   #s{
+    font-size: 33px;
+    margin: 50px 0 20px 0;
+   }
+
+   .sob{
+    margin-top: 50px;
+    gap: 20px;
+   }
+
+  .sob_list{
+    margin-top: 10px;
+  }
+ 
+   .one_sob,.one_sob_l{
+    margin-bottom: 25px;
+    padding: 50px 25px;
+    flex: 1 1 calc(33.33% - 20px); 
+    box-sizing: border-box;
+    max-width: calc(33.33% - 20px);
+    gap: 20px;
+    border-radius: 50px;
+  }
+
+  h5{
+    font-size: 24px;
+  }
+  .one_sob p{
+    font-size: 18px;
+  }
+
+  .pagi{
+    margin: 50px 0;
+  }
+ footer{
+    margin: 100px 0 25px 0;
+    gap: 40px;
+ }
+.just{
+    gap: 30px;
+}
+.footer_logo{
+    gap: 16px;
+}
+.text_logo_f{
+    font-size: 21px;
+    gap: 6px;
+}
+
+.logo_f img{
+    width: 67px;
+}
+
+.footer_mck{
+    font-size: 13px;
+    max-width: 400px;
+}
+.footer_nav{
+    gap: 15px;
+    font-size: 13px;
+}
+.footer_icon{
+    gap: 30px;
+}
+.footer_con{
+    gap: 10px;
+    font-size: 13px;
+}
+.foot{
+    font-size: 13px;
+    margin-top: 20px;
+}
+.kategory{
+    font-size: 15px;
+    margin-left: 10px;
+}
+.otz_block{
+    gap: 30px;
+}
+.otzyv{
+    padding: 25px 35px;
+}
+.full-text{
+    width: 450px;
+}
+.text_otz{
+    max-width: 450px;
+}
+.name_otz{
+    margin: 8px 0 15px 0;
+}
+
+.name_otz p{
+    font-size: 13px;
+  
+}
+.short-text{
+    max-height: 30px;
+    font-size: 13px;
+}
+.full-text{
+    font-size: 13px;
+}
+.name_otz button{
+    font-size: 9px;
+    padding: 10px 0;
+    width: 120px;
+}
+
+.add_block{
+    padding: 0 40px;
+    margin: 60px 0  100px 0;
+}
+.add_one{
+    font-size: 23px;
+    gap: 3px;
+
+}
+.but_add button{
+font-size: 22px;
+}
+
+.prof_name{
+    font-size: 19px;
+}
+.profile{
+    margin: 55px 0 50px 0;
+}
+.prof_sec{
+    gap: 25px;
+}
+.avpr{
+    width: 150px;
+}
+.text_sec_p{
+    margin-top: 30px;
+    max-width: 830px;
+    padding: 50px 40px;
+    gap: 30px;
+}
+.DO{
+    font-size: 25px;
+}
+.text_DOP{
+    font-size: 15px;
+}
+.cont_DOP{
+    font-size: 17px;
+    column-gap: 14px;
+}
+.Name{
+    font-size: 28px;
+    margin-bottom: 45px;
+}
+.my_prof{
+    gap: 40px;
+}
+.one_post_inner, .one_news_inner{
+    gap: 90px;
+        }
+        .item_text_one,.item_text_news{
+            max-width: 350px;
+        }
+        .item_img img,.item_img_new img{
+            width: 150px;
+        }
+        .opis_name{
+            font-size: 28px;
+        }
+        .kat_color{
+            color:  rgba(0, 0, 0, 0.38);
+            font-size: 19px;
+         }
+         .event{
+             color: rgba(255, 86, 13, 0.747);
+             font-size: 19px;
+         }
+    
+         .opis_ine{
+            font-size: 17px;
+         }
+         .off,.on{
+            font-size: 21px;
+            padding: 15px 30px;
+         }
+         .nazad{
+            font-size: 18px;
+            margin-top: 80px;
+         }
+
+          .form_inner{
+            width: 350px;
+            margin: 10px 0;
+            gap: 25px;
+          }
+          .form-group input ,.input_select{
+            padding: 18px 10px;
+          }
+          .but_sub{
+            padding: 18px 10px;
+            margin-top: 20px;
+            font-size: 16px;
+          }
+
+          .hh{
+            font-size: 25px;
+          }
+          .hhh{
+            font-size: 15px;
+            margin: 30px 0;
+          }
+
+          .c_news{
+            display: flex;
+            gap: 50px;
+            border: 1px solid black;
+            padding: 35px 40px;
+           
+        
+        }
+        
+        .user_admin{
+            margin-top: 45px;
+        }
+        .panel_table{
+            margin: 40px 0;
+        }
+
+        thead{
+            font-size: 19px;
+          
+        
+        }
+
+        .panel-table th, .panel-table td {
+            font-size: 14px;
+            padding: 10px;
+        }
+        .icons_pan{
+           
+            gap: 25px;
+        }
+
+}
+
+
+@media (max-width: 830px) {
+.container{
+    max-width: 730px;
+}
+.container_profil{
+    max-width: 750px;
+}
+.contact{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.text_sec_p{
+    margin-top: 30px;
+    max-width: 770px;
+    padding: 50px 40px;
+    gap: 30px;
+}
+.r, .r_d{
+    font-size: 15px;
+   
+}
+
+.text_item_short p{
+    font-size: 18px;
+   
+
+}
+.text_item_short button{
+    font-size: 13px;
+    
+    padding: 10px 30px;
+   
+}
+.kateg img{
+    width: 60px;
+}
+.item{
+    padding: 15px 30px;
+}
+.list, .list_2{
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+}
+
+.z_post_text{
+    max-width: 300px;
+}
+.z_post{
+    width: 650px;
+}
+.panel {
+    font-size: 20px;
+    
+
+}
+.href_a{
+   
+    font-size: 13px;
+   
+}
+.zayavka{
+    
+    font-size: 11px;
+}
+.z_post_text{
+    
+    font-size: 14px;
+   
+}
+.z_opis{
+    font-size: 11px;
+}
+.del_button_post{
+    font-size: 11px;
+   
+    padding: 10px 15px;
+
+}
+.pub_button_post{
+    font-size: 12px;
+   
+    padding: 10px 15px;
+
+}
+.anon_button_post{
+    font-size: 12px;
+   
+    padding: 10px 15px;
+
+}
+
+.admin_vkladki {
+    font-size: 16px;
+}
+.c_post_text{
+    font-size: 14px;
+}
+.panel-table{
+    margin: 35px 0;
+}
+.c_post{
+    width: 500px;
+}
+.c_post_but a{
+    font-size: 13px;
+}
+
+}
+
+@media (max-width: 770px) {
+    .container{
+        max-width: 690px;
+    }
+
+
+    .header{
+        gap: 20px;
+    }
+    
+    .head_logo{
+        gap: 4px;
+    }
+    .item{
+        height: 240px;
+    }
+
+    .text_logo{
+        font-size: 14px;
+    }
+    .logo_img{
+        width: 60%;
+    }
+
+    nav{
+        font-size: 11px;
+        gap: 10px;
+    }
+    
+    .banner{
+        gap: 7px;
+        padding: 60px 0;
+       }
+        
+       .text_banner{
+        font-size: 45px;
+       }
+       .text{
+        gap: 25px;
+        margin-bottom: 20px;
+        font-size: 25px;
+       }
+       #text2{
+        font-size: 25px;
+        padding: 10px 15px;
+       }
+       .banner img{
+        width: 30%;
+       }
+   
+    
+   .banner_2{
+    gap: 20px;
+    margin-top: 40px;
+   }
+   .one_sob_l p{
+    font-size: 14px;
+  }
+
+   .banner_inner{
+    font-size: 18px;
+   }
+
+   #tee{
+    margin-bottom: 15px;
+   }
+
+   .banner_inner_two{
+    gap: 20px;
+   }
+   .text_inner_two{
+    font-size: 12px;
+    max-width: 320px;
+   }
+   #tex{
+    font-size: 15px;
+    width: 320px;
+    padding: 14px 0 14px 0;
+    
+   }
+   .banner_inner img{
+    width: 30%;
+   }
+     
+
+   #how{
+    font-size: 22px;
+padding: 13px 0 13px 0;
+width: 450px;
+    margin: 70px 0 50px 0;
+   }
+
+   .text_help{
+    font-size: 14px;
+    gap: 8px;
+   }
+
+   .sec_1,.sec_3{
+    margin: 20px 0 0 0 ;
+    gap: 20px;
+   }
+
+   .sec_kart{
+    gap: 50px;
+    padding: 25px 45px;
+   }
+
+   .img_sec p{
+    font-size: 11px;
+    padding: 8px 22px;
+   }
+   .img_sec{
+    gap: 20px;
+   }
+  
+ #zagolovok{
+    font-size: 17px;
+    max-width: 230px;
+ }
+ #opis{
+    font-size: 13px;  max-width: 230px;
+ }
+ #otkl,#otkl2{
+    font-size: 14px;
+    padding: 10px 45px;
+ }
+ .sec_2 p{
+    font-size: 16px;
+    max-width: 100%;
+    text-align: justify;
+ }
+
+ #slider_h{
+    padding: 50px 0 35px 0;
+    font-size: 25px;
+   }
+
+   
+   #slider_hh{
+    font-size: 17px;
+   }
+   .text_sl h4{
+    font-size: 27px;
+ 
+    margin-bottom: 15px;
+}
+.text_sl p{
+    font-size: 18px;
+    
+}
+.slider__dot{
+    width: 17px;
+}
+footer{
+    margin: 70px 0 25px 0;
+    gap: 30px;
+ }
+.just{
+    gap: 20px;
+}
+.footer_logo{
+    gap: 12px;
+}
+.text_logo_f{
+    font-size: 18px;
+    gap: 6px;
+}
+
+.logo_f img{
+    width: 50px;
+}
+
+.footer_mck{
+    font-size: 12px;
+    max-width: 360px;
+}
+.footer_nav{
+    gap: 13px;
+    font-size: 12px;
+}
+
+.logo_f img{
+    width: 55px;
+}
+.footer_icon{
+    gap: 25px;
+}
+.footer_con{
+    gap: 10px;
+    font-size: 12px;
+}
+.foot{
+    font-size: 12px;
+    margin-top: 20px;
+}
+.new_block{
+    margin-top: 50px;
+}
+.kategory {
+    font-size: 15px;
+    gap: 25px;
+
+}
+
+.Name{
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+.add_block{
+    padding: 0 20px;
+    margin: 60px 0 100px 0;
+}
+.add_one{
+    font-size: 23px;
+    gap: 0px;
+
+}
+.but_add button{
+font-size: 22px;
+padding: 20px 45px;
+}
+
+.text_sec_p{
+    max-width: 650px;
+    padding: 40px 35px;
+    gap: 25px;
+    border-radius: 50px;
+    border: 4px solid rgba(255, 84, 13, 0.92);
+}
+.DO{
+    font-size: 16px;
+}
+.text_DOP{
+    font-size: 13px;
+}
+.cont_DOP{
+    font-size: 13px;
+}
+.r_d{
+    display: none;
+}
+.rr{
+    margin:35px 0;
+    display: block;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.38);
+}
+.rr{
+    font-size: 15px;
+}
+
+.Name_three{
+    font-size: 25px;
+    margin-top: 40px;
+
+}
+.prof_vkl{
+    font-size: 22px;
+    gap: 100px;
+    
+}
+.auth{
+    font-size: 15px;
+ 
+}
+.one_post_inner,.one_news_inner{
+    flex-direction: column;
+    gap: 50px;
+}
+
+.item_text_one,.item_text_news{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    max-width: 500px;
+}
+.item_img,.item_img_new{
+    gap: 40px;
+}
+.opis_name{
+    font-size: 24px;
+}
+
+.form_inner{
+    width: 300px;
+    margin: 10px 0;
+    gap: 20px;
+  }
+  .form-group input,.input_select{
+    padding: 18px 10px;
+    font-size: 17px;
+  }
+  .but_sub{
+    padding: 18px 10px;
+    margin-top: 20px;
+    font-size: 16px;
+  }
+  .hh{
+    font-size: 20px;
+  }
+  .hhh{
+    font-size: 13px;
+    margin: 30px 0;
+  }
+  .modal-content{
+    padding: 40px;
+  border-radius: 40px;
+  }
+  .modal-content button{
+    font-size: 15px;
+    padding: 10px 60px;
+  }
+
+  .red_modal-content{
+    padding: 70px 50px  30px 50px;
+
+  }
+  .red_h{
+  font-size: 24px;
+  }
+  .admin_vkladki button {
+    font-size: 14px;
+    padding: 17px 23px;
+
+}
+.c_post_list,.c_news_list{
+    margin: 30px 0 50px;
+}
+.www{
+    height: 150px;
+    aspect-ratio: 1;
+    
+    }
+.c_news_but{
+    gap: 30px;
+    font-size: 14px;
+}
+.op{
+    font-size: 13px;
+}
+.otzyv{
+    padding: 20px 29px;
+    justify-content: space-between;
+}
+
+.text_otz{
+    width: 350px;
+    margin-left: 0;
+  
+}
+.full-text{
+    font-size: 11px;
+}
+}
+
+
+@media (max-width: 700px) {
+
+    #s{
+        font-size: 25px;
+        margin: 40px 0 20px 0;
+       }
+    
+       .sob{
+        margin-top: 40px;
+        justify-content: center;
+        gap: 35px;
+       }
+       .sob_list{
+        margin-top: 0px;
+       }
+       .one_sob,.one_sob_l{
+     margin-bottom: 0;
+        padding: 40px 20px;
+        flex: 1 1 calc(50% - 80px); 
+        box-sizing: border-box;
+        max-width: calc(50% - 80px);
+        gap: 20px;
+        border-radius: 40px;
+       
+        
+      }
+      .one_post{
+        margin: 40px 0;
+       }
+    
+      h5{
+        font-size: 21px;
+      }
+      .one_sob p{
+        font-size: 15px;
+      }
+    
+      .pagi{
+        margin: 40px 0;
+        font-size: 23px;
+      }
+      #a{
+        font-size: 25px;
+      }
+    
+    
+     .obr_one{
+        font-size: 16px;
+     }
+    .but_obr button{
+        font-size: 15px;
+        width: 200px;
+    }
+    .stick img{
+        width: 100px;
+    }
+    .sogl{
+        font-size: 13px;
+        gap: 25px;
+    }
+    }
+
+@media (max-width: 650px) {
+    .container{
+        max-width: 550px;
+    }
+   
+    .text_sl p{
+        font-size: 15px;
+    }
+
+    .text_sl{
+        padding: 0 50px 0 50px;
+    }
+     
+    .text_sl h4{
+     font-size: 22px
+    }
+
+    
+    .slider__arrow img{
+        width: 45px;
+       aspect-ratio: 1;
+       }
+
+       footer{
+        margin: 50px 0 25px 0;
+        gap: 20px;
+     }
+    .just{
+        gap: 15px;
+    }
+    .footer_logo{
+        gap: 10px;
+    }
+    .text_logo_f{
+        font-size: 14px;
+        gap: 6px;
+    }
+    
+    .logo_f img{
+        width: 40px;
+    }
+    .footer_icon img{
+        width: 40px;
+    }
+    
+    .footer_mck{
+        font-size: 10px;
+        max-width: 300px;
+    }
+    .footer_nav{
+        gap: 8px;
+        font-size: 9px;
+    }
+    .footer_icon{
+        gap: 20px;
+    }
+    .footer_con{
+        gap: 8px;
+        font-size: 10px;
+    }
+    .foot{
+        font-size: 10px;
+        margin-top: 10px;
+    }
+
+    .kategory {
+        font-size: 14px;
+        gap: 16px;
+        margin-left: 0;
+    }
+
+    .otz_block{
+        margin-top: 30px;
+    }
+    .otzyv{
+        flex-direction: column;
+    }
+    
+    .otz_kart{
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: center;
+        align-items: center;
+    }
+    .otz_kart img{
+        width: 20%;
+    }
+   
+    .read{
+        padding-right: 0%;
+    }
+    .otz_kart button{
+        display: block;
+        background-color: rgba(255, 84, 13, 0.54);
+        border-radius: 10px;
+        width: 100px;
+        padding: 6px 0;
+        font-size: 9px;
+        border: none;
+        color: white;
+    }
+     
+    .text_otz{
+        flex-direction: column;
+        align-items: center;
+        margin-left: 0;
+
+    }
+    .name_otz button{
+        display: none;
+    }
+    .text_sec_p{
+        max-width: 550px;
+        padding: 40px 25px;
+    }
+     
+    .list,.list_2{
+        grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    }
+    .item{
+        padding: 15px 20px;
+        border: 4px solid rgba(255, 84, 13, 0.74);
+        border-radius: 45px;
+
+    }
+
+    .text_item_short p{
+        font-size: 15px;
+       
+    
+    }
+
+    .item.active .title{
+        font-size: 18px;
+        
+    }
+    
+    .item.active .opis{
+        font-size: 12px;
+        margin: 15px 0 10px 0;
+    }
+    .item.active .more{
+        font-size: 11px;
+        margin-bottom: 15px;
+    }
+    .item.active .text_item button{
+        font-size: 14px;
+        background-color: rgba(255, 84, 13, 0.74) ;
+        padding: 12px 30px;
+       ;
+        border-radius: 61px;
+    }
+
+    .new img{
+        width: 170px;
+        height: 170px;
+        border-radius: 30px;
+        
+    }
+    .news_block{
+        margin-top: 40px; 
+    }
+
+    
+.p-class{
+    margin-top: 25px;
+    flex-direction: column;
+}
+.panel{
+    font-size: 16px;
+    
+}
+.href_a{
+    margin-top: 20px;
+    font-size: 15px;
+    gap: 30px;
+}
+
+.admin_vkladki{
+    margin-top: 25px;
+    margin: 20px 0 20px 0;
+}
+
+.admin_vkladki button{
+ 
+    font-size: 10px;
+    padding: 15px 20px ;
+  
+ }
+
+ .z_post_list,.z_otz_list{
+    margin: 30px 0 30px 0;
+   
+    gap: 30px;
+   
+}
+
+.z_post{
+    display: flex;
+    align-items: center;
+    border: 1px solid black;
+    padding: 30px 20px;
+    justify-content: space-between;
+   width: 500px;
+   flex-direction: column;
+
+}
+.z_post_button{
+    display: none;
+}
+.z_post_img{
+    display: flex;
+    gap: 150px;
+    margin-top: 30px;
+}
+.zayavka{
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 11px;
+}
+.z_post_text{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 11px;
+    max-width: 350px;
+}
+.z_opis{
+    font-size: 11px;
+}
+.z_otz_img{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+}
+.c_post_text{
+    font-size: 12px;
+}
+.c_post{
+    width: 400px;
+}
+.c_post_but{
+    display: none;
+}
+.c_post_img{
+    display: flex;
+    justify-content: space-between;
+    font-size: 11px;
+    color: rgba(194, 75, 75, 0.6);
+    align-items: center;
+    margin-top: 25px;
+}
+ 
+.www{
+  display: none;
+ }
+ .c_news_but{
+    display: none;
+ }
+ .c_news_img {
+    margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 65px;
+  align-items: center;
+ }
+
+ .c_news_img img{
+    height: 35px;
+    aspect-ratio: 1;
+   }
+.icons_pan{
+    gap: 15px;
+}
+.panel-table th, .panel-table td {
+    width: 15%; 
+    font-size: 12px;}
+
+    .icons_pan img {
+        width: 20px; 
+        height: 20px;
+        margin: 0 5px; 
+    
+    }
+    .kat_list{
+        margin-top: 40px;
+    }
+    .kat_list{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .kat_list_item_icon img{
+        width: 28px;
+    }
+    .kat_list_item_text{
+        font-size: 14px;
+    }
+    .kat_list_item{
+        gap: 10px;
+    }
+    
+}
+
+
+
+
+/*БУРГЕР МЕНЮ*/
+@media (max-width: 600px) {
+      
+    nav{
+        display: none;
+    }
+    .text_logo{
+        font-size: 12px;
+    }
+    .logo img{
+        width: 70%;
+    }
+    .burger {
+      display: block;
+    }
+    .burger_menu {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100vh;
+      background-color: #fff;
+      display: none;
+      justify-content: center;
+      align-items: center;
+     flex-direction: column;
+    }
+    .nav{
+        display: flex;
+        flex-direction: column;
+        color:  rgba(34, 86, 156, 1);
+    }
+    .burger_menu.open {
+      display: flex;
+    }
+    .burger_menu a {
+      margin-bottom: 20px;
+      font-size: 16px;
+
+    }
+    .burger_menu .close {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      cursor: pointer;
+    }
+  /*категории*/
+
+    .kat_mobile{
+        display: block;
+        display: flex;
+         flex-direction: column; 
+       
+        max-width: 400px; 
+        font-family: 'Intro';
+        align-items: center;
+       margin: 0 auto;
+        
+       }
+
+       .kat_mobile .form-group {
+        display: flex; 
+        align-items: center; 
+        margin-bottom: 15px; 
+    }
+    
+    .kat_mobile label {
+        margin-right: 30px; 
+        font-size: 13px; 
+        color:rgba(0, 0, 0, 0.56);
+    }
+    
+    .kat_mobile select {
+        
+        padding: 10px;
+        border: 1px solid rgba(0, 0, 0, 0.32); 
+        border-radius: 20px; 
+        font-size: 11px; 
+        background-color: #ffffff; 
+        cursor: pointer;
+        font-family: 'Intro';
+        letter-spacing: 2px;
+    }
+    
+    .new_add_b button{
+margin: 25px 0;
+    }
+    
+    
+    .kat_mobile select:focus {
+        
+        box-shadow: 0 0 5px rgba(34, 86, 156, 1); /* Тень при фокусе */
+    }
+      
+   .kategory{
+    display: none;
+   }
+       
+   .add_block{
+    flex-direction: column;
+    gap: 45px;
+   }
+   .rr{
+    font-size: 13px;
+   }
+   .sob_list {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Центрирует ячейки по горизонтали */
+}
+
+   .one_sob_l {
+    flex: 1 1 100%; /* Устанавливаем ширину на 100% */
+    max-width: 70%; /* Убираем ограничение по ширине */
+    border: 3px solid rgba(0, 0, 0, 0.74);
+    padding: 20px 55px;
+    border-radius: 30px;
+   margin: 0 100px 0 100px;
+  gap: 10px;
+
+}
+.hqw{
+    font-size: 17px;
+}
+.sob_list{
+    margin: 10px 0;
+}
+
+.one_sob_l p{
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 16px;
+   
+}
+.icons_pan_s img{
+    width: 30px;
+}
+
+.item_text_news{
+  
+    gap: 15px;
+}
+.one_news{
+    gap: 30px;
+}
+.event_news{
+    font-size: 15px;
+    }
+  
+    
+
+  }
+
+  
+/*БУРГЕР МЕНЮ*/
+
+
+@media (max-width: 590px) {
+    .container{
+        max-width: 490px;
+    }
+
+
+    #slider_h{
+        font-size: 13px;
+        padding: 30px 0 20px 0;
+    }
+
+    #slider_hh{
+        font-size: 13px;
+        padding: 30px 0 30px 0;
+    }
+
+    .slider_body{
+        border-radius: 20px;
+        max-width: 270px;
+    }
+
+    .text_sl{
+        padding: 0 60px 0 60px;
+    }
+     
+    .text_sl h4{
+     font-size: 15px
+    }
+
+    .text_sl p{
+        display: none;
+    }
+
+    .slider__nav{
+        margin-top: 15px;
+
+    }
+    .slider__dot{
+        width: 10px;
+    }
+
+
+    .slider__arrow img{
+        width: 30px;
+       aspect-ratio: 1;
+       }
+
+        
+       #s{
+        font-size: 14px;
+        margin: 30px 0 20px 0;
+       }
+    
+       .sob{
+        margin-top: 35px;
+        gap: 20px;
+       }
+       .sob_list{
+        margin-top: 0px;
+       }
+       .one_sob{
+        margin-bottom: 0px;
+        padding: 30px 25px;
+        flex: 1 1 calc(33.33% - 20px); 
+        box-sizing: border-box;
+        max-width: calc(33.33% - 20px);
+        gap: 20px;
+        border-radius: 20px;
+        border: 2px solid  rgba(255, 84, 13, 0.74);
+      }
+    
+      h5{
+        font-size: 13px;
+      }
+      .one_sob p{
+        font-size: 11px;
+      }
+    
+      .pagi{
+        margin: 50px 0;
+      }
+
+      .pagi p{
+        font-size: 18px;
+      }
+
+      .pagi p:hover{
+        font-size: 19px;
+      }
+       #a{
+        font-size: 20px;
+       }
+
+     .list, .list_2{
+        
+        grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+        gap: 40px; 
+        margin: 40px 0 30px 0;
+       
+    }
+  .kateg{
+    justify-content: center;
+    gap: 40px;
+  }
+  .item.active {
+    grid-column: span 1; 
+    z-index: 1; 
+    display: flex; 
+    flex-direction: row; 
+    justify-content: center; 
+    gap: 30px;
+    padding: 20px 15px;
+}
+.item.active .text_item {
+    gap: 10px;
+    text-align: center;
+    max-width: 300px; 
+    margin-top: 15px;
+}
+.item.active .title{
+    font-size: 16px;
+    
+}
+.item.active .opis{
+    font-size: 10px;
+   
+    margin: 10px 0 5px 0;
+}
+.item.active .kateg{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+
+}
+.item.active .kateg p{
+   
+    width: 100px;
+    padding: 7px 0;
+    font-size: 10px;
+
+}
+.item.active .kateg img{
+    width: 50px;
+}
+.item.active .data{
+    display: block;
+    background-color: inherit;
+    font-size: 10px;
+    color: black;
+}
+
+
+.item.active .more{
+    font-size: 11px;
+    color: rgba(0, 0, 0, 0.519);
+    margin-bottom: 15px;
+}
+.item.active .text_item button{
+    font-size: 13px;
+    background-color: rgba(255, 84, 13, 0.74) ;
+    padding: 12px 20px;
+    color: white;
+    text-align: center;
+    border-radius: 61px;
+}
+.auth{
+    font-size: 13px;
+ 
+}
+.two_list_text p{
+    font-size: 13px;
+    
+    padding: 15px 0;
+    margin-bottom: 15px;
+   
+}
+
+.list_otkl {
+ 
+    gap: 10px;
+    font-size: 14px;
+    margin-bottom: 15px;
+ 
+
+}
+.form_inner{
+    width: 250px;
+    margin: 15px;
+    gap: 19px;
+}
+
+.form-group label{
+    font-size: 12px;
+    
+}
+.form-group input,.input_select{
+    font-size: 15px;
+    padding: 15px 10px;
+    border-radius: 8px;
+
+
+}
+.form-group{
+    gap: 7px;
+}
+.but_sub{
+    font-size: 14px;
+    padding: 15px ;
+}
+.forma a{
+font-size: 10px;
+
+}
+
+.hh{
+    font-size: 12px;
+  }
+  .hhh{
+    font-size: 10px;
+    margin: 20px 0;
+    max-width: 250px;
+  }
+  .modal-content{
+    padding: 30px;
+  border-radius: 30px;
+  }
+  .modal-content button{
+    font-size: 10px;
+    padding: 7px 45px;
+  }
+
+  .red_modal-content{
+    padding: 50px 30px  30px 30px;
+    border-radius: 30px; 
+
+  }
+  .red_h{
+  font-size: 17px;
+  }
+  .forma{
+    margin: 30px 0;
+  }
+  .panel-table{
+    margin: 20px 0;
+   }
+   .nazad_news{
+    font-size: 15px;
+    margin: 30px 0 30px 0;
+
+   }
+   .one_post{
+    margin: 30px 0;
+   }
+}
+
+
+@media (max-width: 570px) {
+    .container{
+        max-width: 480px;
+    }
+
+
+footer{
+    margin: 80px 0 15px 0;
+    gap: 25px;
+   }
+   .just{
+    display: flex;
+   }
+
+   .footer_logo{
+    gap: 8px;
+   }
+   .text_logo_f{
+    font-size: 11px;
+    gap: 3px;
+   }
+   .logo_f img{
+    width: 30px;
+}
+.footer_mck{
+    font-size: 6px;
+   
+    max-width: 205px;
+}
+
+.footer_con_M,.foot_M{
+    display: block;
+}
+
+.footer_three,.footer_con,.foot{
+    display: none;
+}
+.footer_two{
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+
+}
+.footer_nav{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 7px;
+}
+
+.footer_con_M{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 7px;
+    color: rgba(0, 0, 0, 0.49);
+}
+#p{
+    margin-top: 15px;
+    color: rgba(255, 86, 13, 0.486);
+}
+.footer_icon{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+
+}
+.footer_icon img{
+    width: 27px;
+}
+.sogl{
+    font-size: 11px;
+    gap: 20px;
+}
+
+.p-class{
+    margin-top: 25px;
+    flex-direction: column;
+}
+.panel{
+    font-size: 14px;
+    
+}
+.href_a{
+    margin-top: 20px;
+    font-size: 11px;
+    gap: 20px;
+}
+
+.admin_vkladki{
+    margin-top: 25px;
+}
+
+.admin_vkladki button{
+ 
+    font-size: 10px;
+    padding: 15px 20px ;
+  
+ }
+
+ .z_post_list,.z_otz_list{
+    margin: 30px 0 30px 0;
+   
+    gap: 30px;
+   
+}
+
+.z_post{
+    display: flex;
+    align-items: center;
+    border: 1px solid black;
+    padding: 30px 20px;
+    justify-content: space-between;
+   width: 400px;
+   flex-direction: column;
+
+}
+.z_post_button{
+    display: none;
+}
+.z_post_img{
+    display: flex;
+    gap: 150px;
+    margin-top: 30px;
+}
+.zayavka{
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 11px;
+}
+.z_post_text{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 11px;
+    max-width: 350px;
+}
+.z_opis{
+    font-size: 11px;
+    overflow-wrap: break-word;
+}
+.z_otz_img{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+}
+}
+
+
+@media (max-width: 550px) {
+    .container{
+        max-width: 460px;
+    }
+
+    nav{
+        display: none;
+    }
+    .text_logo{
+        font-size: 11px;
+    }
+    .logo img{
+        width: 40%;
+    }
+   .head_logo{
+    gap: 0px;
+   }
+   
+    
+    .banner{
+        gap: 5px;
+        padding: 35px 0;
+       }
+        
+       .text_banner{
+        font-size: 25px;
+       }
+       .text{
+        gap: 10px;
+        margin-bottom: 20px;
+        font-size: 15px;
+       }
+       #text2{
+        font-size: 15px;
+        padding: 4px 8px;
+       }
+       .banner img{
+        width: 25%;
+       }
+   
+       .banner_2{
+        flex-direction: column;
+        gap: 15px;
+        align-items: center;
+       }
+       .text_inner_two{
+        text-align: justify;
+        
+       }
+
+       #tex{
+        font-size: 13px;
+    
+        padding: 15px 25px 15px 25px;
+        margin: 0 auto;
+        
+       }
+    
+
+       #how{
+        font-size: 12px;
+        width: 240px;
+        margin: 50px 0 50px 0;
+       }
+       .text_help{
+        font-size: 11px;
+        text-align: justify;
+        max-width: 100%;
+       }
+
+       .sec_1{
+        margin: 30px 0 0 0 ;
+       }
+      
+       .sec_3{
+        margin: 10px 0 0 0 ;
+        gap: 15px;
+       }
+       .sec_kart{
+        gap: 2px;
+        padding: 20px 25px;
+        border-radius: 31px;
+        border: 2px solid rgba(255, 86, 13, 0.874);
+        
+        margin: 0 auto;
+    
+       }
+       .img_sec p{
+        font-size: 8px;
+        padding: 7px 18px;
+        letter-spacing: 0px;
+       }
+       .img_sec img{
+        width: 55%;
+       }
+
+       #zagolovok{
+        font-size: 11px;
+        max-width: 200px;
+        margin-bottom: 10px;
+     }
+     #opis{
+        font-size: 8px;  max-width: 200px;
+        margin-bottom: 7px;
+     }
+     #otkl,#otkl2{
+        font-size: 11px;
+      width: 125px;
+      padding: 8px 0 8px 0;
+     }
+     #more{
+        font-size: 7px;
+        margin-bottom: 12px;
+     }
+     .sec_2 p{
+        font-size: 11px;
+     
+     }
+
+     .sec_2{
+        gap: 10px;
+     }
+    
+         
+     .sob{
+        margin-top: 30px;
+        gap: 20px;
+        justify-content: space-between;
+       }
+       .sob_list{
+        margin-top: 0px;
+       }
+       .one_sob{
+        margin-bottom: 0px;
+        padding: 20px 15px;
+        flex: 1 1 calc(33.33% - 20px); 
+        box-sizing: border-box;
+        max-width: calc(33.33% - 20px);
+        gap: 10px;
+        border-radius: 20px;
+        border: 2px solid  rgba(255, 84, 13, 0.74);
+      }
+    
+      h5{
+        font-size: 11px;
+      }
+      .one_sob p{
+        font-size: 9px;
+      }
+
+      .one_sob_l p{
+       
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+
+    footer{
+        margin: 30px 0 10px 0;
+    }
+    
+      .pagi{
+        margin: 50px 0;
+      }
+
+      .pagi p{
+        font-size: 15px;
+     
+      }
+       #a{
+        font-size: 17px;
+       }
+
+       .Name{
+        font-size: 17px;
+        margin-bottom: 30px;
+       }
+       .news{
+        margin-top: 40px;
+       }
+   
+      
+   .news_block{
+    margin-top: 30px;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+   }
+   .new{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px 20px;
+    flex: 0; 
+    box-sizing: border-box;
+    max-width: 330px;
+    text-align: center;
+    align-items: center;
+    border-radius: 30px;
+    gap: 20px;
+    margin-bottom: 23px;
+
+   }
+   .new_mobile{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+   
+
+   }
+   .new img{
+       width: 130px;
+       height: 140px;
+   }
+   
+   .new_mobile p{
+    font-size: 11px;
+    text-align: center;
+   }
+   .new_mobile a{
+    font-size: 9px;
+    margin-bottom: 15px;
+   }
+   .new_mobile button{
+    font-size: 10px;
+    width: 120px;
+    padding: 10px 0;
+   }
+
+   .otz_kart p{
+    font-size: 9px;
+
+   }
+   .otz_kart img{
+    width: 17%;
+   }
+   .otz_kart{
+  
+   }
+   .otzyv{
+    border: 1px solid rgba(0, 0, 0, 0.5) ;
+    padding: 15px 40px;
+    border-radius: 20px;
+   }
+   .name_otz button{
+    font-size: 9px;
+   }
+.op{
+    text-align: center;
+    margin-top: 13px;
+    font-size: 12px;
+}
+   .name_otz p{
+    font-size: 12px;
+   }
+   .text_otz{
+    font-size: 9px;
+    width: 350px;
+    padding: 0 15px;
+   }
+   .read{
+    font-size: 10px;
+   }
+    
+   .add_block{
+    flex-direction: row;
+    padding: 0px 2px;
+    margin: 50px 0 75px 0;
+   }
+   .add_one{
+    font-size: 16px;
+   }
+   .but_add button{
+    font-size: 12px;
+    padding: 15px 30px;
+
+   }
+
+   .obr_one{
+     font-size: 12px;
+     gap: 3px;
+
+
+   }
+   .but_obr button{
+    font-size: 12px;
+    padding: 10px 0;
+    width: 140px;
+   }
+
+   .obr_block img{
+    width: 48px;
+   }
+   .obr_block{
+    padding: 0 10px;
+   }
+   .conta{
+    margin: 40px 0 25px 0;
+   }
+   .Name_two{
+    font-size: 15px;
+    margin:40px 0 5px 0;
+   }
+   .prof{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    
+   }
+   .prof_name{
+    font-size: 13px;
+    gap: 5px;
+    flex-wrap: wrap;
+   }
+   .rol{
+    font-size: 10px;
+   }
+   .mob img{
+    width: 105px;
+   }
+   .mob{
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+   }
+   .prof_cont{
+    font-size: 12px;
+    gap: 6px;
+   }
+
+   .contact{
+    flex-direction: column;
+    gap: 17px;
+    margin: 50px 0 80px 0;
+  
+   }
+   .r_block{
+    gap: 25px;
+    align-items: center;
+   }
+   .r_one{
+padding: 20px 35px;
+width: 375px;
+flex-direction: column;
+   }
+   .r_one_name{
+font-size: 12px;
+gap: 6px;
+text-align: left;
+   }
+ .rol_r{
+    font-size: 10px;
+ }
+ .r_one_text{
+    flex-direction: column-reverse;
+    gap: 7px;
+    font-size: 11px;
+    text-align: right;
+ }
+ .text_r{
+    font-size: 12px;
+ }
+ .l_block{
+    gap: 10px;
+    padding: 20px 30px;
+    width: 378px;
+    margin: 0 auto;
+   
+ }
+ .mmck{
+    font-size: 11px;
+    max-width: 345px;
+
+ }
+ .l_block_con{
+    font-size: 12px;
+    margin-top: 5px;
+
+ }
+ .l_block img{
+    width: 255px;
+ }
+
+ .avpr{
+    width: 105px;
+ }
+ .prof_sec{
+    gap: 30px;
+ }
+ .text_sec_p{
+    border: 3px solid rgba(255, 84, 13, 0.92);
+    border-radius: 30px;
+    max-width: 400px;
+    padding: 50px 20px;
+    gap: 20px;
+ }
+ .DO{
+    font-size: 12px;
+ }
+ .text_DOP{
+    font-size: 10px;
+ }
+ .cont_DOP{
+    font-size: 10px;
+    column-gap: 0px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 0px;
+    gap: 10px;
+ }
+ .rr{
+    font-size: 11px;
+    margin: 20px 0 30px 0;
+ }
+ .r{
+    font-size: 10px;
+ }
+ .Name_three{
+    font-size: 17px;
+    margin-top: 40px;
+
+}
+.prof_vkl{
+    justify-content: center;
+    font-size: 13px;
+    gap: 30px;
+    margin: 30px 0;
+    
+}
+.item_img_mob, .mob_b{
+    display: flex;
+}
+.item_img{
+    display: none;
+}
+.item_img_mob{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ gap: 30px;
+
+}
+.one_post{
+    margin: 40px 0;
+}
+.event_news{
+font-size: 15px;
+}
+
+.off{
+    display: none;
+}
+.item_text_one{
+    border: 3px solid rgba(255, 86, 13, 0.468) ;
+    border-radius: 40px;
+    padding: 35px 55px;
+}
+.opis_name{
+    font-size: 17px;
+}
+.opis_ine{
+    font-size: 12px;
+
+}
+.item_img_mob img{
+    width: 65px;
+}
+
+.kat_color{
+    
+    font-size: 9px;
+ }
+ .event{
+     
+     font-size: 11px;
+ }
+ .nazad{
+    font-size: 13px;
+   
+    margin-top: 60px;
+    
+}
+.mob_b{
+    background-color: rgba(255, 86, 13, 0.747);
+    border-radius: 61px;
+    color: white;
+    font-size: 14px;
+    
+    padding: 13px 45PX;
+    border: none;
+    display: inline;
+}
+.admin_vkladki button{
+ 
+    font-size: 8px;
+    padding: 12px 15px ;
+  
+ }
+ .panel-table th, .panel-table td {
+    width: 14%; 
+    font-size: 10px;}
+
+    .c_post{
+        width: 350px;
+    }
+    .new_add_b button{
+        font-size: 13px;
+
+    }
+#ww{
+    gap: 15px;
+    
+}
+#ew{
+    padding: 7px 19px;
+    font-size: 7px;
+}
+
+.ree{
+    font-size: 9px;
+    padding: 5px 13px;
+
+}
+
+
+.user_admin{
+    margin-top: 20px;
+}
+}
+
+
+@media (max-width: 450px) {
+    .container{
+        max-width: 390px;
+    }
+    .text_sec_p{
+        border: 2px solid rgba(255, 84, 13, 0.92);
+        border-radius: 25px;
+        max-width: 340px;
+        padding: 40px 10px;
+        
+     }
+     .cont_DOP{
+        row-gap: 5px;
+     }
+     .text_DOP{
+        font-size: 8px;
+     }
+}
